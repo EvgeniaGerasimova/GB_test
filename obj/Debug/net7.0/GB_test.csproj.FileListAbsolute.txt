@@ -1,0 +1,14 @@
+D:\Учеба GB\Tests\GB_test\bin\Debug\net7.0\GB_test.exe
+D:\Учеба GB\Tests\GB_test\bin\Debug\net7.0\GB_test.deps.json
+D:\Учеба GB\Tests\GB_test\bin\Debug\net7.0\GB_test.runtimeconfig.json
+D:\Учеба GB\Tests\GB_test\bin\Debug\net7.0\GB_test.dll
+D:\Учеба GB\Tests\GB_test\bin\Debug\net7.0\GB_test.pdb
+D:\Учеба GB\Tests\GB_test\obj\Debug\net7.0\GB_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GB\Tests\GB_test\obj\Debug\net7.0\GB_test.AssemblyInfoInputs.cache
+D:\Учеба GB\Tests\GB_test\obj\Debug\net7.0\GB_test.AssemblyInfo.cs
+D:\Учеба GB\Tests\GB_test\obj\Debug\net7.0\GB_test.csproj.CoreCompileInputs.cache
+D:\Учеба GB\Tests\GB_test\obj\Debug\net7.0\GB_test.dll
+D:\Учеба GB\Tests\GB_test\obj\Debug\net7.0\refint\GB_test.dll
+D:\Учеба GB\Tests\GB_test\obj\Debug\net7.0\GB_test.pdb
+D:\Учеба GB\Tests\GB_test\obj\Debug\net7.0\GB_test.genruntimeconfig.cache
+D:\Учеба GB\Tests\GB_test\obj\Debug\net7.0\ref\GB_test.dll
