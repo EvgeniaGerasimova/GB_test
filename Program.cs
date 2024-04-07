@@ -1,9 +1,4 @@
-﻿string[] array = Character_array();
-string[] result_array = Generate_new_array(array);
-string first_array = Print_array(array);
-string second_array = Print_array(result_array);
-Console.WriteLine(first_array + " -> " + second_array);
-string[] Character_array()
+﻿string[] Character_array()
 {
     Console.WriteLine("Enter the data separated by a space: ");
     string? enterSymbols = Console.ReadLine();
@@ -58,4 +53,9 @@ string[] Generate_new_array(string[] array)
     return result_array;
 }
 
+string[] array = Character_array();
+string[] result_array = Generate_new_array(array);
+string first_array = Print_array(array);
+string second_array = Print_array(result_array);
+Console.WriteLine(first_array + " -> " + second_array);
 
