@@ -57,5 +57,5 @@ string[] array = Character_array();
 string[] result_array = Generate_new_array(array);
 string first_array = Print_array(array);
 string second_array = Print_array(result_array);
-Console.WriteLine(first_array + " -> " + second_array);
+Console.WriteLine(first_array + " → " + second_array);
 
